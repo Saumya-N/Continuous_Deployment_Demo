@@ -1,4 +1,4 @@
-FROM python:3.11.9-bookworm
+FROM python:3.10-slim-bookworm
 
 WORKDIR /flask-docker
 
